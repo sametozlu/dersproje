@@ -18,3 +18,4 @@ def main():
 if __name__ == "__main__":
     main()
 print("Ogretmen branch satiri")
+print("Ogrenci: Halil SAmed Özlü")
